@@ -1,0 +1,18 @@
+introduction
+  Autosar Os is a static operating system
+  -禁止动态处理系统资源
+  -AUTOSAR OS 是可配置的
+  -AUTOSAR OS 必须独立配置以及为每个应用生成
+  Advantage:AUTOSAE OS can be *optimized
+  Cofiuration:EB
+
+Scheduling
+  Tasks:Task are C FUNCTION, that can be scheduled by OS/ 通常大部分应用在task中执行
+  Interrupt Service Routines（中断服务程序）
+
+
+Multi-core Support
+Critical Section Protection
+Os-Application Protection
+Hints and Tips
+EB tresos Os products
