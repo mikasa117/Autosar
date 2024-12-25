@@ -8,8 +8,11 @@ introduction
 
 Scheduling
   Tasks:Task are C FUNCTION, that can be scheduled by OS/ 通常大部分应用在task中执行
-  Interrupt Service Routines（中断服务程序）
+  Interrupt Service Routines（中断服务程序）:ISRs 由硬件事件控制/ISRs可以中断task甚至其它ISRs
+  Events：事件是OS通知task的机制/任务可以等待事件
 
+Scheduling policy：
+  -
 
 Multi-core Support
 Critical Section Protection
